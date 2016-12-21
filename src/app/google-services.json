@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1005869304558",
+    "project_id": "project-533165916402464230"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005869304558:android:ddc29aeda009f3a6",
+        "android_client_info": {
+          "package_name": "com.doom.googleIsDoomed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005869304558-c7t1vpsmg3vm10dkbrfssc4062guh72e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doom.googleIsDoomed",
+            "certificate_hash": "DE076AA7BFD0EF55F73757438769BFFD13D37B68"
+          }
+        },
+        {
+          "client_id": "1005869304558-9dhhjvgjpc7kqjqni6qhvsjdmvncluul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhbpB7LMiVi6uXhtDWVXRwWlg4bMkV-dI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
